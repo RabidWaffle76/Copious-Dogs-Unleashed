@@ -1,11 +1,11 @@
 [
     {
-        "modid": "examplemod",
-        "name": "${modName}",
-        "description": "${modDescription}",
-        "version": "${version}",
+        "modid": "copiousdogsremake",
+        "name": "${Copious Dogs Unleashed}",
+        "description": "${An unofficial remake/port of Copious Dogs. Enjoy!}",
+        "version": "${1.12.2}",
         "url": "${modHomepage}",
-        "authorList": [ "${modAuthor}" ],
-        "credits": "${modCredits}"
+        "authorList": [ "${RabidWaffle76}" ],
+        "credits": "${All credits go to the creators of the original mod.}"
     }
 ]
