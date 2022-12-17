@@ -1,4 +1,4 @@
-package net.darkhax.examplemod;
+package net.rabidwaffle76.copiousdogsremake;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -7,11 +7,11 @@ import net.minecraftforge.fml.common.Loader;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.ModContainer;
 
-@Mod(modid = ExampleMod.MOD_ID)
-public class ExampleMod {
+@Mod(modid = CopiousDogsRemake.MOD_ID)
+public class CopiousDogsRemake {
     
-    public static final String MOD_ID = "examplemod";
-    public static final Logger LOGGER = LogManager.getLogger("Example Mod");
+    public static final String MOD_ID = "copiousdogsremake";
+    public static final Logger LOGGER = LogManager.getLogger("Copious Dogs Unleashed");
     
     public ExampleMod() {
         
